@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{33FD6E82-8D49-453E-AECA-75B69A46A241}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Services.cshtml",
+              "RelativeDocumentMoniker": "DadehGostar\\Pages\\Services.cshtml",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Services.cshtml",
+              "RelativeToolTip": "DadehGostar\\Pages\\Services.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T16:25:08.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "DadehGostar\\Pages\\About.cshtml",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\About.cshtml",
+              "RelativeToolTip": "DadehGostar\\Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T16:21:53.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DadehGostar\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DadehGostar\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-11T16:10:20.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DadehGostar\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DadehGostar\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T16:05:26.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DadehGostar\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Index.cshtml",
+              "RelativeToolTip": "DadehGostar\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T16:03:20.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
