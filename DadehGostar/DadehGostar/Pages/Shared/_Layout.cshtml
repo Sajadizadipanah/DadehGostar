@@ -6,6 +6,7 @@
     <title>@ViewData["Title"] - DadehGostar</title>
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/DadehGostar.styles.css" asp-append-version="true" />
 </head>
@@ -52,7 +53,14 @@
                             </a>
                         </li>
 
-                       
+                       <li class="nav-item ms-lg-3 mt-2 mt-lg-0">
+   <a class="btn btn-primary px-4 rounded-pill"
+   asp-area="Identity"
+   asp-page="/Account/Login"
+   asp-route-returnUrl="/Admin/Messages">
+    ورود مدیر
+</a>
+</li>
 
                     </ul>
                 </div>

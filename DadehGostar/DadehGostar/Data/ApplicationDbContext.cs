@@ -1,10 +1,11 @@
 ﻿
 using DadehGostar.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace DadehGostar.Data;
 
-public class ApplicationDbContext : DbContext
+public class ApplicationDbContext : IdentityDbContext
 {
     public ApplicationDbContext(
         DbContextOptions<ApplicationDbContext> options)

@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\admin\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\admin\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\admin\\messages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\admin\\messages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\dadehgostar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\dadehgostar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +47,12 @@
       "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Migrations\\20261111200558_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DadehGostar\\Migrations\\20261111200558_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,8 +63,8 @@
       "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\migrations\\20261111200558_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\migrations\\20261111200558_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +74,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DadehGostar\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DadehGostar\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T14:53:44.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml.cs",
+              "RelativeToolTip": "DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:44:42.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml",
+              "RelativeToolTip": "DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T14:43:40.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DadehGostar",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\DadehGostar.csproj",
+              "RelativeDocumentMoniker": "DadehGostar\\DadehGostar.csproj",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\DadehGostar.csproj",
+              "RelativeToolTip": "DadehGostar\\DadehGostar.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T14:29:31.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "20261111200558_InitialCreate.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Migrations\\20261111200558_InitialCreate.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Migrations\\20261111200558_InitialCreate.cs",
@@ -70,8 +138,7 @@
               "RelativeToolTip": "DadehGostar\\Migrations\\20261111200558_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T20:05:58.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T20:05:58.949Z"
             },
             {
               "$type": "Document",
@@ -81,14 +148,14 @@
               "RelativeDocumentMoniker": "DadehGostar\\Program.cs",
               "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Program.cs",
               "RelativeToolTip": "DadehGostar\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T20:04:23.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\appsettings.json",
               "RelativeDocumentMoniker": "DadehGostar\\appsettings.json",
@@ -96,25 +163,24 @@
               "RelativeToolTip": "DadehGostar\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-11T20:03:39.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T20:03:39.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "DadehGostar\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T19:55:13.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "ContactMessage.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Models\\ContactMessage.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Models\\ContactMessage.cs",
@@ -122,12 +188,11 @@
               "RelativeToolTip": "DadehGostar\\Models\\ContactMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T19:53:44.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T19:53:44.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Contact.cshtml.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Contact.cshtml.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Contact.cshtml.cs",
@@ -140,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Contact.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Contact.cshtml",
@@ -148,12 +213,11 @@
               "RelativeToolTip": "DadehGostar\\Pages\\Contact.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T19:00:40.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T19:00:40.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Services.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Services.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Services.cshtml",
@@ -165,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\About.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\About.cshtml",
@@ -177,40 +241,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "DadehGostar\\wwwroot\\css\\site.css",
               "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\wwwroot\\css\\site.css",
               "RelativeToolTip": "DadehGostar\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv3sAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-11T16:10:20.092Z"
+              "WhenOpened": "2026-11-11T16:10:20.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DadehGostar\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-11T16:05:26.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Index.cshtml",
               "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Index.cshtml",
               "RelativeToolTip": "DadehGostar\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T16:03:20.686Z"
+              "WhenOpened": "2026-11-11T16:03:20.686Z",
+              "EditorCaption": ""
             }
           ]
         }

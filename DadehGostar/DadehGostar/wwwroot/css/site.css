@@ -52,3 +52,73 @@ body {
     .service-card p {
         line-height: 2;
     }
+
+/* General */
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: #f8fafc;
+}
+
+/* Navbar */
+.navbar {
+    padding: 14px 0;
+}
+
+.navbar-brand {
+    font-size: 23px;
+    letter-spacing: 0.5px;
+}
+
+.nav-link {
+    transition: 0.3s;
+    margin: 0 5px;
+}
+
+    .nav-link:hover {
+        color: #60a5fa !important;
+    }
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, #101b35, #164e8a);
+    border-radius: 0 0 35px 35px;
+}
+
+/* Service Cards */
+.service-card {
+    border-radius: 18px;
+    background: #ffffff;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+}
+
+    .service-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.12);
+    }
+
+/* Buttons */
+.btn {
+    transition: all 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #2563eb;
+    border-color: #2563eb;
+}
+
+    .btn-primary:hover {
+        background-color: #1d4ed8;
+        transform: translateY(-2px);
+    }
+
+/* Section Titles */
+section h2 {
+    color: #172554;
+}
+
+/* Footer */
+footer {
+    padding: 20px 0;
+    background-color: #f1f5f9;
+}
