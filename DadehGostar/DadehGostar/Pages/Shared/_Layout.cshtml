@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -54,12 +57,33 @@
                         </li>
 
                        <li class="nav-item ms-lg-3 mt-2 mt-lg-0">
-   <a class="btn btn-primary px-4 rounded-pill"
-   asp-area="Identity"
-   asp-page="/Account/Login"
-   asp-route-returnUrl="/Admin/Messages">
-    ورود مدیر
-</a>
+                            @if (SignInManager.IsSignedIn(User))
+                            {
+                                <li class="nav-item ms-lg-3 mt-2 mt-lg-0">
+                                    <form asp-area="Identity"
+                                          asp-page="/Account/Logout"
+                                          asp-route-returnUrl="/"
+                                          method="post">
+
+                                        <button type="submit"
+                                                class="btn btn-danger px-4 rounded-pill">
+                                            خروج مدیر
+                                        </button>
+
+                                    </form>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="nav-item ms-lg-3 mt-2 mt-lg-0">
+                                    <a class="btn btn-primary px-4 rounded-pill"
+                                       asp-area="Identity"
+                                       asp-page="/Account/Login"
+                                       asp-route-returnUrl="/Admin/Messages">
+                                        ورود مدیر
+                                    </a>
+                                </li>
+                            }
 </li>
 
                     </ul>

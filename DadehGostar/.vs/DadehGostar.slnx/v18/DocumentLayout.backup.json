@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|d:\\sajad data\\project in work\\dadehgostar\\dadehgostar\\dadehgostar\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B77FC5AE-7C8F-E5C1-7985-48111C7CDEA6}|DadehGostar\\DadehGostar.csproj|solutionrelative:dadehgostar\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -74,11 +78,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DadehGostar\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Areas\\Identity\\Pages\\Account\\Register.cshtml*",
+              "RelativeToolTip": "DadehGostar\\Areas\\Identity\\Pages\\Account\\Register.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-14T16:23:19.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Shared\\_LoginPartial.cshtml",
@@ -86,12 +103,11 @@
               "RelativeToolTip": "DadehGostar\\Pages\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-12T14:53:44.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T14:53:44.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml.cs",
@@ -99,12 +115,11 @@
               "RelativeToolTip": "DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAwwBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T14:44:42.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T14:44:42.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml",
@@ -112,25 +127,23 @@
               "RelativeToolTip": "DadehGostar\\Pages\\Admin\\Messages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-12T14:43:40.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T14:43:40.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DadehGostar",
+              "DocumentIndex": 8,
+              "Title": "DadehGostar.csproj",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\DadehGostar.csproj",
               "RelativeDocumentMoniker": "DadehGostar\\DadehGostar.csproj",
               "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\DadehGostar.csproj",
               "RelativeToolTip": "DadehGostar\\DadehGostar.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-12T14:29:31.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T14:29:31.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "20261111200558_InitialCreate.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Migrations\\20261111200558_InitialCreate.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Migrations\\20261111200558_InitialCreate.cs",
@@ -142,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Program.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Program.cs",
@@ -150,12 +163,11 @@
               "RelativeToolTip": "DadehGostar\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAmwCYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T20:04:23.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T20:04:23.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\appsettings.json",
               "RelativeDocumentMoniker": "DadehGostar\\appsettings.json",
@@ -167,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Data\\ApplicationDbContext.cs",
@@ -175,12 +187,11 @@
               "RelativeToolTip": "DadehGostar\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T19:55:13.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T19:55:13.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ContactMessage.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Models\\ContactMessage.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Models\\ContactMessage.cs",
@@ -192,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Contact.cshtml.cs",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Contact.cshtml.cs",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Contact.cshtml.cs",
@@ -200,12 +211,11 @@
               "RelativeToolTip": "DadehGostar\\Pages\\Contact.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T19:40:03.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T19:40:03.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Contact.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Contact.cshtml",
@@ -217,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Services.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Services.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Services.cshtml",
@@ -229,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\About.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\About.cshtml",
@@ -241,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "DadehGostar\\wwwroot\\css\\site.css",
@@ -249,25 +259,24 @@
               "RelativeToolTip": "DadehGostar\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAGQAAAAAAAAAAADwv3sAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-11T16:10:20.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T16:10:20.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "DadehGostar\\Pages\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAEAAAAAAAAAA==",
+              "ToolTip": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DadehGostar\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwFUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-11T16:05:26.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Sajad data\\Project in work\\DadehGostar\\DadehGostar\\DadehGostar\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "DadehGostar\\Pages\\Index.cshtml",
@@ -275,8 +284,7 @@
               "RelativeToolTip": "DadehGostar\\Pages\\Index.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T16:03:20.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T16:03:20.686Z"
             }
           ]
         }
